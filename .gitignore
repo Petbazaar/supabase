@@ -5,6 +5,8 @@ out
 .docz
 tmp
 *.swp
+# custom
+.env.dev
 
 coverage
 allure-results
